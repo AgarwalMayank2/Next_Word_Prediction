@@ -1,6 +1,7 @@
 # Next_Word_Prediction
 
 Here I implemented a GRU (RNN) model in Pytorch which predicts some words after a given sentence. I achieved an accuracy of 83% on the Shakespeare Hamlet data.
+
 The hyparameters that I used were:-
 
 input_size = 128
